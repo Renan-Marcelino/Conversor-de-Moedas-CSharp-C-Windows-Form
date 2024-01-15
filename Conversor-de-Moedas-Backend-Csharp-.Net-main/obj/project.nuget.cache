@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+yqh5KwqSW1xCASCL8EgQc8G44sYw0UoUZIwIezESSVwAje+4ns9kJSIjiOb6puwBy/wSjewehPU/fimvcfcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Loja\\Desktop\\Conversor-de-Moedas-Backend-Csharp-.Net-main\\Conversor de Moedas - C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loja\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Loja\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Loja\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Loja\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
